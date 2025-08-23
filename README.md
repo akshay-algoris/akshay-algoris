@@ -64,8 +64,6 @@ With **5+ years of experience**, I specialize in building scalable full-stack ap
 
 ## 📈 GitHub Stats & Activity  
 
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshay-algoris&show_icons=true&theme=tokyonight)  
-
 [![Akshay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshay-algoris&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 ---
