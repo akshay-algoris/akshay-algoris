@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer | Full-Stack Developer | AI & Cloud Enthusiast**  
 
-With **5+ years of experience**, I specialize in building scalable full-stack applications, AI-powered platforms, and modern web solutions. Passionate about solving real-world problems with clean, efficient, and maintainable code.  
+With **6+ years of experience**, I specialize in building scalable full-stack applications, AI-powered platforms, and modern web solutions. Passionate about solving real-world problems with clean, efficient, and maintainable code.  
 
 ---
 
